@@ -4,6 +4,15 @@
 
 This project predicts an individual's creditworthiness using Machine Learning techniques. The model analyzes financial and demographic information such as income, debts, payment history, credit score, savings, and existing loans to determine whether an applicant is a good or bad credit risk.
 
+## Live Demo
+
+Streamlit App: https://credit-scoring-model-3tqbvraqfbmwqos2cp7njf.streamlit.app/
+
+## GitHub Repository
+
+Source Code: https://credit-scoring-model-3tqbvraqfbmwqos2cp7njf.streamlit.app/
+
+
 ## Objectives
 
 * Predict customer creditworthiness.
