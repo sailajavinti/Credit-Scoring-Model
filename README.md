@@ -10,7 +10,7 @@ Streamlit App: https://credit-scoring-model-3tqbvraqfbmwqos2cp7njf.streamlit.app
 
 ## GitHub Repository
 
-Source Code: https://credit-scoring-model-3tqbvraqfbmwqos2cp7njf.streamlit.app/
+Source Code: https://github.com/sailajavinti/Credit-Scoring-Model
 
 
 ## Objectives
